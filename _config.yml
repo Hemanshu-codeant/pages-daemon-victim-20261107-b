@@ -1,0 +1,5 @@
+title: Authorized Pages daemon boundary probe
+description: Synthetic cross-account concurrency and read-only host capability controls
+theme: null
+kramdown:
+  forbidden_inline_options: []
